@@ -4,11 +4,9 @@ Thumbs.db
 
 # Editor files
 .vscode/
-*.suo
-*.user
 
-# Logs
-*.log
-
-# Future dependencies
+# Node/dependency folders (if you ever add them)
 node_modules/
+
+#Environment/secret files
+.env
